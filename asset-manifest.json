@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/d3-forced-graph/static/css/main.afd7172b.chunk.css",
+    "main.js": "/d3-forced-graph/static/js/main.bda23502.chunk.js",
+    "main.js.map": "/d3-forced-graph/static/js/main.bda23502.chunk.js.map",
+    "runtime-main.js": "/d3-forced-graph/static/js/runtime-main.b81f987a.js",
+    "runtime-main.js.map": "/d3-forced-graph/static/js/runtime-main.b81f987a.js.map",
+    "static/js/2.78387e91.chunk.js": "/d3-forced-graph/static/js/2.78387e91.chunk.js",
+    "static/js/2.78387e91.chunk.js.map": "/d3-forced-graph/static/js/2.78387e91.chunk.js.map",
+    "static/js/3.1d867a6a.chunk.js": "/d3-forced-graph/static/js/3.1d867a6a.chunk.js",
+    "static/js/3.1d867a6a.chunk.js.map": "/d3-forced-graph/static/js/3.1d867a6a.chunk.js.map",
+    "index.html": "/d3-forced-graph/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/d3-forced-graph/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.78387e91.chunk.js.LICENSE.txt": "/d3-forced-graph/static/js/2.78387e91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b81f987a.js",
+    "static/js/2.78387e91.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.bda23502.chunk.js"
+  ]
+}
